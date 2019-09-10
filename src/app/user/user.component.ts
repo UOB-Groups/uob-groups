@@ -94,6 +94,31 @@ export class UserComponent implements OnInit {
         {
             name: 'ITCE 101',
             link: 'https://chat.whatsapp.com/DBsDHlxdIaaAC7YDFGsOhR'
+        },
+        {
+            name: 'ITCE 112',
+            link: 'https://chat.whatsapp.com/KUvD1bo7x7P0Lw0L3mrQSQ'
+        },
+        {
+            name: 'ITCE 211',
+            link: 'https://chat.whatsapp.com/C0JMvhqI0WVJizZatR3P1y'
+        },
+        {
+            name: 'ITCE 221',
+            link: 'https://chat.whatsapp.com/HMhVE6JV4iP86cbwGgh2dp'
+        },
+
+        {
+            name: 'ITCE 222',
+            link: 'https://chat.whatsapp.com/JxsScp9KW4f8RghvsApX4L'
+        },
+        {
+            name: 'ITCE 230',
+            link: 'https://chat.whatsapp.com/EFPQfGvIpLkISM5EDYy94i'
+        },
+        {
+            name: 'ITCE 252',
+            link: 'https://chat.whatsapp.com/BczRyBvO7tB2U3Eu7plYpl'
         }
     ];
 
