@@ -152,7 +152,10 @@ export class UserComponent implements OnInit {
             link: 'https://chat.whatsapp.com/H9TGYx0dnd5LiwZuXm1XMl'
         },
 
-
+        {
+            name: 'Stat 105',
+            link: 'https://chat.whatsapp.com/BVPLlfUIpAmCAd3zioflsh'
+        },
         {
             name: 'Stat 273',
             link: 'https://chat.whatsapp.com/FtvTJI8LSvo2sBHknJVmyO'
